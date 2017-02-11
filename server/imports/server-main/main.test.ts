@@ -1,4 +1,6 @@
+/* eslint-env mocha */
 // chai uses as asset library
+
 import * as chai from "chai";
 import * as spies from "chai-spies";
 import StubCollections from "meteor/hwillson:stub-collections";
